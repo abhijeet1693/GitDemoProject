@@ -16,6 +16,6 @@ public class App
     	
     	user.sendMessage();
     	
-    	// This change is from develop branch.
+    	System.out.println("JMS App");
     }
 }
