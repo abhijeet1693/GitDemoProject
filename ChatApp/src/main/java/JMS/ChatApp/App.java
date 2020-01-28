@@ -15,5 +15,7 @@ public class App
     	MessageUser1 user = new MessageUser1();
     	
     	user.sendMessage();
+    	
+    	System.out.println("JMS App");
     }
 }
